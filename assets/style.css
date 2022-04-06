@@ -5,20 +5,34 @@
   text-align: center;
 }
 .head-artical{
-  border: 3px solid lime;
+  border: 5px solid lime;
 
 }
 .content-artical{
   font-size: initial;
 }
-.img{
+.div{
+  display: inline;
+  width: 100px;
+  border: 5px solid yellowgreen;
+  padding: 10px 30px;
+  margin: 20px auto;
+}
+ .img{
   display: block;
   width: 200px;
   border: 5px solid red;
   padding: 15px;
   margin: 50px 20px;
 }
-.neg-margin{
+/* .neg-margin{
   margin-top: -20px;
   border: 5px solid blue;
 }
+.span{
+  width: 200px;
+  display: block;
+  border: 5px solid red;
+  padding: 10px 30px;
+  margin: 20px 50px;
+} */ */
